@@ -1,3 +1,2 @@
 # Testrepo
-Test
-print ("hello world")
+Hello World
